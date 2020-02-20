@@ -1,5 +1,5 @@
-import numpy as np
 
+<<<<<<< HEAD
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
@@ -94,3 +94,5 @@ def stations():
 
 if __name__ == '__main__':
     app.run(debug=True)
+=======
+>>>>>>> 9d12f2f2234c1059e1d844a72efa4ca7bc65bd3e
